@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/KnifeParty12/Nodejs-Authentication#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "hbs": "^4.0.3",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.3.5"
   }
 }
